@@ -8,7 +8,7 @@
  * @LastEditors  : 靳肖健
  */
 // header("Access-Control-Allow-Origin: *"); 
-$conn = mysqli_connect('host','username','password','dbname','port');
+$conn = mysqli_connect('localhost','weixin','lODyDvVZflJ8','weixin','3306');
 ?>
 
 <!-- 连接你的数据库 -->

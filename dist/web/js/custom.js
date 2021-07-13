@@ -1,7 +1,7 @@
 'use strict';
 
 //需要改为你的服务器网址
-var base_url = '//m.jxjweb.top/2code/dist';
+var base_url = '//oracle1.ddns.net/2code/dist';
 
 (function ($) {
 
